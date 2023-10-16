@@ -1,0 +1,31 @@
+Frame:
+	Order new 90 degree brackets
+	Model new 90 degree brackets (Others can help)
+	Model all hardware and position screw holes
+	Design engrave graphics
+	Sand metal sheets (Others can help)
+	Cut the frame
+	Spray paint the frame (Others can help)
+	Engrave the frame
+	Drill holes into the frame (Others can help)
+	Assemble the frame (Others can help)
+Electronics:
+	Test if hot-gluing the nuts will work
+		If it doesn't, find a new solution
+	Human I/O Board? (Maybe Miles?)
+	Order PCBs
+	Assemble PCBs
+	Test EVERYTHING
+Cameras:
+	Make two new cameras (Matthew Stricker)
+	Learn how to view camera feed by myself (Matty)
+	Design fisheye lens mount for Pi Cam Model 3 (Others can help)
+	Determine if we even need a dome
+		If we do:
+		Order a dome
+		Model dome (Others can help)
+Tether:
+	Order power wires
+	Order tether sleeve
+	Order strain relief device
+	Put the tether together (Others can help)
