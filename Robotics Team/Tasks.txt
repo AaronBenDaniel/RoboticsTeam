@@ -1,5 +1,4 @@
 Frame:
-	Order new 90 degree brackets
 	Model new 90 degree brackets (Others can help)
 	Model all hardware and position screw holes
 	Design engrave graphics
@@ -9,23 +8,26 @@ Frame:
 	Engrave the frame
 	Drill holes into the frame (Others can help)
 	Assemble the frame (Others can help)
+	Documentation
 Electronics:
-	Test if hot-gluing the nuts will work
-		If it doesn't, find a new solution
-	Human I/O Board? (Maybe Miles?)
+	Fix ESC Board
 	Order PCBs
 	Assemble PCBs
 	Test EVERYTHING
+	Documentation
 Cameras:
 	Make two new cameras (Matthew Stricker)
 	Learn how to view camera feed by myself (Matty)
-	Design fisheye lens mount for Pi Cam Model 3 (Others can help)
 	Determine if we even need a dome
 		If we do:
 		Order a dome
 		Model dome (Others can help)
+	Documentation
 Tether:
-	Order power wires
-	Order tether sleeve
-	Order strain relief device
+	How much cable should we buy?
+	Order power wires https://bulkwire.com/power-wire-ultra-flexible
+	Determine diameter tether sleeve we’ll need
+	Order tether sleeve "flexible braided plastic cable sleeve"
+	Order strain relief device "cable thimble"
+	Order a medium/large carabiner for cable thimble
 	Put the tether together (Others can help)
